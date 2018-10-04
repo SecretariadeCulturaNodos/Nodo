@@ -1,2 +1,2 @@
 # Nodo
-Nodo Génerico
+Nodo Genérico
